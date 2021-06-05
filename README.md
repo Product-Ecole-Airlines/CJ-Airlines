@@ -77,3 +77,13 @@ Al adquirir una membresía anual, el cliente sentirá la necesidad de ser consis
 Con este producto queremos que el cliente se sienta como en casa. A través de nuestro modelo predictivo se obtienen los datos del cliente, preferencias, calendarios, complexión (todo con un claro mensaje de cómo y para que se usará esta información, recalcando al cliente la importancia que tiene para la empresa el cuidado de sus datos personales), con la finalidad de dar un servicio personalizado, no solo a la hora de hacer reservaciones de vuelos, sino también para documentar equipaje, revisión de documentos y comodidad en el vuelo, bebida de bienvenida, snacks, cena y otros amenities escogidos por el usuario. De esta forma el usuario podrá ahorrar tiempos y su vuelo va a ser tan cómodo y ameno como  estar en casa. 
 
 
+### **Onboarding avanzado**
+
+- Implementar una estrategia de un nuevo onboarding que permita cambiar la perspectiva del usuario, hacer un proceso de acercamiento que cautive y enamore al usuario; no solo estás comprando un boleto, estás viviendo la experiencia de volar.
+
+- Un buen onboarding es un gran aliado, ya que se convierte en un unboxing virtual del servicio que obtendré y nos ayuda a mejorar nuestra relación con el cliente mostrando nuestro servicio de forma transparente y sencilla.
+
+
+### **Storytelling : Volar no es solo viajar, es reconectar con el mundo**
+
+Desarrollar una estrategia de comunicación que permita darle prioridad a las historias que conectan a las personas. Al transmitir un mensaje más emocional y poniendo al usuario en el foco de la campaña podemos generar un mayor engagement. Necesitamos transmitir que la idea de volar no solo es transportarse de un lugar a otro, volar es reconectar con las personas, con las aventuras, con el mundo.
