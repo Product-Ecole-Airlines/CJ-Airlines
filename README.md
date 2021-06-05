@@ -1,5 +1,6 @@
 # CJ-Airlines
-Lleva tu casa al avión.
+Lleva tu casa al avión. 
+- Adjunto a este documento se encuentra el framework de 11 estrellas planteado por Brian Chesky aplicado a este producto.
 
 ## Miembros del equipo
 
